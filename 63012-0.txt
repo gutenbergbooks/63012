@@ -1,106 +1,75 @@
+*** START OF THE PROJECT GUTENBERG EBOOK 63012 ***
 
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+VOL. III. PP. 1-30, PL. 1, MARCH 28, 1891
 
-<html>
-<head>
-	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<title>The Project Gutenberg e-Book of The National Geographic Magazine, Vol. III, PP. 1-30, PL. 1, March 28, 1891, by Gardiner G. Hubbard</title>
-	<link rel="coverpage" href="images/img-cover.jpg">
-	<style type="text/css">
-		<!--
-		body {margin:12%; text-align:justify}
-		h1   {text-align:center}
-		h2   {text-align:center}
-		h3   {text-align:center}
-		h4   {text-align:center}
-		h5   {text-align:center}
-		.pagenum {position:absolute; left:92%;	text-align:right;}	-->
-		</style>
-</head>
+THE NATIONAL GEOGRAPHIC MAGAZINE
 
-<body>
-<div>*** START OF THE PROJECT GUTENBERG EBOOK 63012 ***</div>
 
-<center><img src="images/img-cover.jpg" alt="cover"></center>
-<br>
-<br>
-<br>
-<br>
-<span class="pagenum"><a name="page1"><small><small>[p. 1]</small></small></a></span>
-<center><small>V<small>OL</small>. III, PP 1&ndash;30, PL 1
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-M<small>ARCH</small> 28, 1891.</small></center>
-<h4>THE</h4>
-<h2>NATIONAL GEOGRAPHIC MAGAZINE.</h2>
-<hr>
-<br>
-<br>
-<br>
-<br>
-<h3>SOUTH AMERICA.</h3>
 
-<h5>A<small>NNUAL</small> A<small>DDRESS BY THE</small> P<small>RESIDENT</small>,</h5>
 
-<h4>GARDINER G. HUBBARD.</h4>
+SOUTH AMERICA
 
-<center>(<i>Presented to the Society December 19, 1890.</i>)</center>
-<br>
-<hr align="center" width="25%">
-<br>
-<p>Two years ago I selected for my annual address <i>Africa, or the Dark
-Continent;</i> last year <i>Asia, the Land of Mountains and Deserts;</i> this
-year I have chosen <i>South America, the Land of Rivers and Pampas</i>.</p>
+ANNUAL ADDRESS BY THE PRESIDENT
 
-<a name="PL1"></a>
-<table align="center" border="0" cellspacing="0" cellpadding="6" summary="Plate 1">
-	<tr>
-		<td width="723" align="center">
-			<small>NAT GEOG. MAG.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			VOL. III, 1891, PL. 1.</small>
-		</td>
-	</tr>
-	<tr>
-		<td width="723">
-			<img src="images/01.jpg" alt="South America">
-		</td>
-	</tr>
-	<tr>
-		<td width="723" align="center">
-			<small>From the International Cylopedia, by permission of
-			Dodd, Mead &amp; Company.</small>
-		</td>
-	</tr>
-</table>
-<br><br>
+GARDINER G. HUBBARD
 
-<p>The recent meeting of the Pan-American Congress has called attention
+
+
+
+WASHINGTON
+
+PUBLISHED BY THE NATIONAL GEOGRAPHIC SOCIETY
+
+Price, 25 Cents.
+
+
+{1}
+
+
+VOL. III, PP 1-30, PL 1., MARCH 28, 1891.
+
+THE NATIONAL GEOGRAPHIC MAGAZINE
+
+
+
+
+SOUTH AMERICA.
+
+ANNUAL ADDRESS BY THE PRESIDENT,
+
+GARDINER G. HUBBARD.
+
+(_Presented to the Society December 19, 1890._)
+
+
+Two years ago I selected for my annual address _Africa, or the Dark
+Continent_; last year _Asia, the Land of Mountains and Deserts_; this
+year I have chosen _South America, the Land of Rivers and Pampas_.
+
+[Illustration: VOL. III, 1891, PL. 1. SOUTH AMERICA. From the
+International Cylopedia, by permission of Dodd, Mead & Company.]
+
+       *       *       *       *       *
+
+The recent meeting of the Pan-American Congress has called attention
 to South America, a part of our continent under republican forms of
 government and rich in products which we lack, while it relies mainly
 on other foreign countries for goods which we manufacture. North
 America and South America should be more closely united, for the one
-is the complement of the other.</p>
+is the complement of the other.
 
-<p>The prominent features of South America are its long ranges of
-mountains&mdash;next to the Himalayas the highest in the world,&mdash;its great
+The prominent features of South America are its long ranges of
+mountains--next to the Himalayas the highest in the world,--its great
 valley, and its immense plateau extending from the Straits of Magellan
-to the Caribbean sea.</p>
-<br>
+to the Caribbean sea.
 
-<center>T<small>HE</small> M<small>OUNTAINS</small>.</center>
 
-<p>The Andes rise in the extreme south at Cape Horn, run in a
+THE MOUNTAINS.
+
+The Andes rise in the extreme south at Cape Horn, run in a
 northerly course through Patagonia and southern Chili; thence
 continuing in three nearly parallel ranges, the western chain called
-the Andes, the others known as the Cordilleras, through Peru,
-<span class="pagenum"><a name="page2"><small><small>[p. 2]</small></small></a></span>
+the Andes, the others known as the Cordilleras, through Peru, {2}
 Bolivia and Ecuador to Colombia. The Cordilleras and the Andes are
 connected in several places by knots or cross-chains of mountains. In
 Colombia the Andes turn to the northwest, reaching their lowest
@@ -109,18 +78,18 @@ America and North America as the Rocky Mountains, to the Arctic ocean.
 Near the source of the Magdalena and Cauca rivers in Colombia, the
 eastern range is deflected to the east along the northern coast of
 South America. The central range disappears between the Magdalena and
-Cauca rivers.</p>
+Cauca rivers.
 
-<p>The Andes form the water-shed of the continent. The waters on the
+The Andes form the water-shed of the continent. The waters on the
 western slope flow into the Pacific ocean. The rivers that rise on the
 eastern slope, in northern Peru and Ecuador, force their way through
 the Cordilleras and at their foot drain the montaña of Bolivia, Peru
 and Brazil. In the southern part of Peru and upper Chili there is a
 broad sierra or plateau, at an elevation of from twelve to fourteen
 thousand feet. The streams that rise in this sierra either empty into
-salt or alkaline lakes or sink into the ground.</p>
+salt or alkaline lakes or sink into the ground.
 
-<p>Unlike all other long ranges of mountains, the continental or eastern
+Unlike all other long ranges of mountains, the continental or eastern
 side of the Cordilleras is nearly as precipitous as that extending to
 the Pacific. Craters of extinct volcanoes and volcanoes now in
 eruption are found in all parts of the chain. In Ecuador there are
@@ -137,18 +106,17 @@ lives, we are told, were lost in one day; the tremor was felt over
 four countries and from the Andes to the Sandwich Islands. The tidal
 wave washed a gunboat of the United States on shore at Arica in lower
 Peru, 1000 miles to the south, and sixteen hours later the wave was
-felt across the Pacific at New Zealand.</p>
+felt across the Pacific at New Zealand.
 
-<p>A range of mountains separates Eastern Venezuela and Guiana from the
+A range of mountains separates Eastern Venezuela and Guiana from the
 valley of the Amazon. Other ranges south of the Amazon run
 southwestwardly, following the Atlantic coast line from Cape St. Roque
-to the Rio de la Plata.</p>
-<br>
+to the Rio de la Plata.
 
-<span class="pagenum"><a name="page3"><small><small>[p. 3]</small></small></a></span>
-<center>R<small>IVER</small> S<small>YSTEMS</small>.</center>
 
-<p>A great oceanic current flows along the western coast of Africa to the
+{3} RIVER SYSTEMS.
+
+A great oceanic current flows along the western coast of Africa to the
 equator, where it is deflected across the Atlantic ocean and becomes
 the equatorial current. On reaching the coast of South America near
 Cape St. Roque, it is again deflected north and south. Trade winds
@@ -159,46 +127,44 @@ but when the clouds at the foot-hills of the Andes meet the colder
 winds from the south and strike the snow summits of the Cordilleras,
 all the moisture is condensed, and the rain falls in tropical showers
 for half the year and waters the largest and richest valley in the
-world.</p>
+world.
 
-<p>In this valley, among the Cordilleras, three great rivers&mdash;the
-Orinoco, the Amazon and La Plata&mdash;rise. The mountain ranges north and
+In this valley, among the Cordilleras, three great rivers--the
+Orinoco, the Amazon and La Plata--rise. The mountain ranges north and
 south of the Amazon divide this great valley into three lesser
 valleys, down which the Orinoco, the Amazon and La Plata flow,
-watering three-fourths of South America.</p>
-<br>
+watering three-fourths of South America.
 
-<center><i>The Orinoco</i>.</center>
 
-<p>The headwaters of the Orinoco rise in two ranges of mountains; the
+_The Orinoco_.
+
+The headwaters of the Orinoco rise in two ranges of mountains; the
 Cordilleras in the west, and the mountains of Venezuela many hundred
 miles to the east. Four hundred tributaries, abounding in beautiful
-falls and cataracts, unite to form this great river.</p>
+falls and cataracts, unite to form this great river.
 
-<p>The whole valley for 1600 miles is filled with dense and tangled
+The whole valley for 1600 miles is filled with dense and tangled
 forests. Noble trees of unrivalled beauty blossom in endless
 prodigality. Birds of gorgeous plumage nestle in their lofty recesses.
 Tall ferns, vines, creeping plants and parasites form a dense tangle
 of undergrowth, swarming with life. Myriads of insects in great
 variety, reptiles of strange and singular form, lizards and venemous
 serpents find their homes and sustenance in the wild, dense mass of
-vegetation.</p>
-<br>
+vegetation.
 
-<center><i>The Amazon</i>.</center>
 
-<p>The valley of the Amazon collects its waters from a region 1800 miles
+_The Amazon_.
+
+The valley of the Amazon collects its waters from a region 1800 miles
 wide from north to south and 2500 miles long from the Andes to the
 Atlantic ocean. Even at the foot of the Andes the Amazon is a mighty
 river. The valley rapidly narrows to a width of 600 or 700 miles, and
-then more gradually to the ocean,
-<span class="pagenum"><a name="page4"><small><small>[p. 4]</small></small></a></span>
-where it is only 150 miles wide.
+then more gradually to the ocean, {4} where it is only 150 miles wide.
 Its total fall from the foot-hills of the Andes to the Atlantic is
 very slight, not over three or four hundred feet, and probably
-considerably less.</p>
+considerably less.
 
-<p>The rims of the valley are formed of diorite and sandstone, and are
+The rims of the valley are formed of diorite and sandstone, and are
 raised only a little above the flood-plain, which is formed of mud and
 silt, the detritus brought down by the Amazon and its tributaries. The
 flood-plain is from fifty to one hundred miles wide, gradually
@@ -206,13 +172,13 @@ narrowing as it approaches the ocean. Through this valley the Amazon
 cuts its way, separating often into channels which sometimes run
 parallel to each other for several hundred miles, frequently forming
 large islands, or expanding into lakes. Similar flood-plains are found
-on all its larger tributaries.</p>
+on all its larger tributaries.
 
-<p>Up from the ocean into this valley an immense tidal wave rolls, with a
+Up from the ocean into this valley an immense tidal wave rolls, with a
 bore, twice a day, forcing back the current of the Amazon 500 miles
-and inundating a portion of the flood-plain.</p>
+and inundating a portion of the flood-plain.
 
-<p>In the early autumn the equatorial rise commences in the headwaters of
+In the early autumn the equatorial rise commences in the headwaters of
 its tributaries, far south of the equator. The rains and melting snow
 raise the streams, and these the waters of the Amazon. As the sun
 crosses the equator and moves to the north the rain follows its
@@ -224,29 +190,28 @@ flood-plains are overflowed. The whole valley becomes a net-work of
 navigable waters, with islands and channels and lakes innumerable,
 forming a great inland sea, which the Brazilians call the
 Mediterranean of America. The upland, though only a little above the
-flood-plain, is rarely overflowed.</p>
+flood-plain, is rarely overflowed.
 
-<p>The plants and animals of the flood-plain were formerly considered as
+The plants and animals of the flood-plain were formerly considered as
 distinct from those of the upland as are the plants and animals of
 Europe from those of America; but later investigations show that there
-is but little difference between the species.</p>
+is but little difference between the species.
 
-<p>The sea breeze blows up the valley about a thousand miles. Then for
+The sea breeze blows up the valley about a thousand miles. Then for
 1500 miles the atmosphere is stagnant and sultry; the climate is that
 of a permanent vapor bath. The dense foliage forms dark, lofty vaults
 which the sunlight never penetrates, and over all hangs a perpetual
 mist. The abundance and beauty of vegetation increases, and the trees
 which at the mouth of the river blossom only once a year, here bloom
-and bear fruit all the year round.</p>
+and bear fruit all the year round.
 
-<span class="pagenum"><a name="page5"><small><small>[p. 5]</small></small></a></span>
-<p>Many great rivers run into the Amazon from the north and the
+{5} Many great rivers run into the Amazon from the north and the
 south, most of them navigable, for many hundred miles. The Madeira,
 its greatest tributary, after running 2000 miles, empties into the
 king of rivers, without making any perceptible difference in its width
-or depth.</p>
+or depth.
 
-<p>This mighty current, rushing into the ocean, meets the equatorial
+This mighty current, rushing into the ocean, meets the equatorial
 current and for over one hundred miles keeps on nearly a straight
 course, when the stronger and mightier oceanic current deflects it to
 the north. At from 200 to 300 miles from land, the sea is strongly
@@ -255,12 +220,12 @@ Amazon. And even further north, about 400 miles from its mouth, the
 naturalist on the Amazon tells us, "we passed numerous patches of
 floating grass mingled with tree trunks and withered foliage; among
 these I espied many fruits of the Amazonian palm. And this was the
-last I saw of the Amazon."</p>
-<br>
+last I saw of the Amazon."
 
-<center><i>The Rio de la Plata</i>.</center>
 
-<p>The La Plata, the outlet of the waters of central South America, is
+_The Rio de la Plata_.
+
+The La Plata, the outlet of the waters of central South America, is
 formed by the union of the Uruguay and Parana, about 150 miles from
 the ocean; a little lower down, at Montevideo, it is 62 miles wide and
 widens rapidly to the Atlantic, where it discharges more water than
@@ -268,31 +233,30 @@ all the rivers of Europe. The tributaries of the Parana are
 fan-shaped. Its most eastern branches rise in the mountains of Brazil,
 within seventy miles of the Atlantic ocean; and 1500 miles away, on
 the other side of the continent, its most western tributaries rise
-only 125 miles from the Pacific.</p>
+only 125 miles from the Pacific.
 
-<p>Steamers ascend the Parana, Paraguay and Cuyaba, 2100 miles to Cuyaba,
-and the river with its branches is navigable for 5000 miles.</p>
-<br>
+Steamers ascend the Parana, Paraguay and Cuyaba, 2100 miles to Cuyaba,
+and the river with its branches is navigable for 5000 miles.
 
-<center><i>The San Francisco</i>.</center>
 
-<p>The San Francisco, about 1800 miles long, rises near Rio de Janeiro
+_The San Francisco_.
+
+The San Francisco, about 1800 miles long, rises near Rio de Janeiro
 and flows north about 1200 miles between parallel ranges of mountains,
 then turns east and forces its way through the coast range to the
 Atlantic ocean. It runs through the gold and diamond regions of
 Brazil, and has a considerable population along its banks. It has many
-falls and rapids, and considerable slack-water navigation.</p>
-<br>
+falls and rapids, and considerable slack-water navigation.
 
-<span class="pagenum"><a name="page6"><small><small>[p. 6]</small></small></a></span>
-<center>G<small>ENERAL</small> D<small>ESCRIPTION</small>.</center>
 
-<p>In Asia, the different countries have natural boundaries; the people,
+{6} GENERAL DESCRIPTION.
+
+In Asia, the different countries have natural boundaries; the people,
 soil and climate of one country are unlike those of others. In Europe
 there are few natural boundaries, though different races inhabit the
-several states.</p>
+several states.
 
-<p>In South America only one dominant race is found, and though natural
+In South America only one dominant race is found, and though natural
 boundaries exist, yet they do not serve as boundaries to the different
 states, other than Venezuela and Guiana. Venezuela and Guiana are
 watered by the Orinoco and by several rivers that flow from the
@@ -302,20 +266,20 @@ negroes and coolies. The interior is sultry and thickly wooded; it is
 inhabited by Indian tribes, the principal of which are the cannibal
 Caribs, and by negroes as uncivilized as any of the tribes in Africa.
 Guiana is controlled by the English, French, and Dutch. Cayenne, the
-prison for French convicts, is the capital of French Guiana.</p>
+prison for French convicts, is the capital of French Guiana.
 
-<p>Colombia and Ecuador occupy the northwestern part of South America.
+Colombia and Ecuador occupy the northwestern part of South America.
 They are situated on both sides of the Andes, and have every variety
 of climate. The country is well watered; fertile but unhealthy on the
 coast, fertile and healthy on the elevated plains, cold and barren on
-the mountains.</p>
+the mountains.
 
-<p>In Brazil, besides the Amazon, La Plata and San Francisco, there are
+In Brazil, besides the Amazon, La Plata and San Francisco, there are
 several large rivers with fertile valleys; but occasional droughts,
 sometimes lasting for two years, will prevent portions of Brazil from
-becoming densely inhabited.</p>
+becoming densely inhabited.
 
-<p>On the Pacific coast south of Ecuador, the rainfall becomes less and
+On the Pacific coast south of Ecuador, the rainfall becomes less and
 less. For three thousand miles along the coast of Peru and Chili there
 is no natural harbor; a plain from ten to fifty miles in width extends
 from the Pacific to the foot-hills of the Andes. The Antarctic current
@@ -325,13 +289,12 @@ scanty vapor is dissipated by the heat radiated from the land, and not
 a drop of rain refreshes the thirsty soil. Many mountain torrents run
 from the snow-clad summits of the Andes, and the beauty of their
 narrow valleys forms a grateful contrast to the dry and barren sands
-of the plain.</p>
+of the plain.
 
-<p>In the southern part of Chili and in that part formerly called
-Patagonia, rain is abundant and the country is fertile.</p>
+In the southern part of Chili and in that part formerly called
+Patagonia, rain is abundant and the country is fertile.
 
-<p>The longest stretch of low and comparatively level land to be
-<span class="pagenum"><a name="page7"><small><small>[p. 7]</small></small></a></span>
+The longest stretch of low and comparatively level land to be {7}
 found in the world extends through the center of South America. A boat
 starting from the Caribbean sea could sail up the Orinoco over a
 thousand miles, then down the Casquiare, which runs from the Orinoco
@@ -339,52 +302,51 @@ into the Rio Negro, down that river to the Amazon, up the Amazon to
 the Madeira, then up that river and one of its branches through Brazil
 and Bolivia, and with a short portage of six and a half miles to one
 of the branches of the Paraguay, down the Paraguay and La Plata to the
-ocean.</p>
+ocean.
 
-<p>The level land crosses the La Plata and continues southward through
+The level land crosses the La Plata and continues southward through
 the Argentine Republic and Patagonia to the Straits of Magellan.
 Within this plain lie all the interior of Venezuela and Brazil, a part
 of Bolivia, all Paraguay, Uruguay, and the Argentine Republic. The
 pampas resemble our prairies, but run from north to south, while the
-prairies run from east to west.</p>
+prairies run from east to west.
 
-<p>The streams in the plain south of the valley of the La Plata rise in
-the Andes and flow southeastward to the Atlantic.</p>
-<br>
+The streams in the plain south of the valley of the La Plata rise in
+the Andes and flow southeastward to the Atlantic.
 
-<center>T<small>HE</small> A<small>BORIGINES</small>.</center>
 
-<p>The aborigines of America, except the Esquimaux, are unlike the
+THE ABORIGINES.
+
+The aborigines of America, except the Esquimaux, are unlike the
 natives of other countries; the most marked difference is in their
 language. They are divided into a number of tribes differing from each
 other in some respects, yet with manners, customs and religious
-beliefs generally similar.</p>
+beliefs generally similar.
 
-<p>In South America there are more than one hundred distinct languages,
+In South America there are more than one hundred distinct languages,
 and two thousand dialects. About five or six million Indians have as
 many dialects as are found among the 800,000,000 inhabitants of Europe
 and Asia. Their languages are polysynthetic, being of a higher type
 than the agglutinative languages. In the polysynthetic tongue the
 substantive, adjective and verb are joined or combined, and oftentimes
-a whole sentence will be comprised in a single word.</p>
+a whole sentence will be comprised in a single word.
 
-<p>The natives in the valleys of the Orinoco and Amazon are forced to
+The natives in the valleys of the Orinoco and Amazon are forced to
 cultivate a little ground on the flood-plains, as the forests are
 thick and impenetrable. They live principally on the fruit of the palm
 (of which there are five hundred varieties), cocoa and bananas, fish
 and turtles. There are no roads or paths through the forests except
 the numerous channels of the rivers, called igarapes or furos. The
-tribes on the pampas live principally on game and wild cattle.</p>
+tribes on the pampas live principally on game and wild cattle.
 
-<p>Humboldt tells us that the navigator on the Orinoco sees with surprise
-at night the palm trees illuminated by large fires. From
-<span class="pagenum"><a name="page8"><small><small>[p. 8]</small></small></a></span> the
+Humboldt tells us that the navigator on the Orinoco sees with surprise
+at night the palm trees illuminated by large fires. From {8} the
 trunks of these trees are suspended the habitations of a tribe of
 Indians, who make their fires on mats hung in the air and filled with
 moist clay. The same palm tree furnishes also food and wine and
-clothing, and thus supplies every want and even the luxuries of life.</p>
+clothing, and thus supplies every want and even the luxuries of life.
 
-<p>The Indian race as a whole is believed to be superior to both the
+The Indian race as a whole is believed to be superior to both the
 negro and the Malay, as neither of those races has ever attained to
 the civilization of the Incas of Peru or of the Indians of Mexico and
 the Aztecs of Central America. Many of their myths and folk tales are
@@ -393,26 +355,26 @@ to other tribes in distant parts of the continent, and even to the
 negroes of Africa, and the Arabs of upper Egypt. All the tribes on the
 continent have substantially the same habits of life, the same methods
 of warfare, the same general characteristics, and a language built
-substantially on the same plan.</p>
+substantially on the same plan.
 
-<p>From these observations it might seem that the Indian tribes of South
+From these observations it might seem that the Indian tribes of South
 America were allied to those of Africa or to the Malays, but on
 further consideration the similarity seems due rather to a like stage
-of civilization than to identity of race.</p>
-<br>
+of civilization than to identity of race.
 
-<center>T<small>HE</small> I<small>NCAS OF</small> P<small>ERU</small>.</center>
 
-<p>In crossing from Arequipa in Peru to La Paz in Bolivia, the road
+THE INCAS OF PERU.
+
+In crossing from Arequipa in Peru to La Paz in Bolivia, the road
 ascends the Andes, makes a slight descent into the barren, desolate
 valley between the Andes and Cordilleras, crosses Lake Titicaca, and
 then descends to La Paz. Lake Titicaca, the largest lake of South
 America, is on a plateau between twelve and thirteen thousand feet in
 height, the most elevated table land on the globe, excepting Thibet.
 This lake is surrounded by lofty, snow-clad mountains, the highest of
-which is Illampa, 22,300 feet in height.</p>
+which is Illampa, 22,300 feet in height.
 
-<p>On this lake are the remains of the most ancient civilization of South
+On this lake are the remains of the most ancient civilization of South
 America. Cyclopean ruins of temples and fortresses stand as perpetual
 monuments of a vanished culture; when and by whom they were erected,
 we know not; their builders left no other record of their existence.
@@ -420,8 +382,7 @@ The wandering Indians told the first Spaniards that they existed
 before the sun shone in the heavens. From one of the rocky islands of
 Lake Titicaca, about the year 1000 or 1100, the Sun, parent of mankind
 and giver of every good gift, taking compassion on the degraded
-condition of <span class="pagenum"><a name="page9"><small><small>[p. 9]</small></small></a></span>
-the Indians, sent two of his children, Manco Capac
+condition of {9} the Indians, sent two of his children, Manco Capac
 and Mama Oello Huaco, to gather the wandering tribes into communities,
 to teach them the arts of civilized life and to inculcate the worship
 of the Sun. From Lake Titicaca, this brother and sister, husband and
@@ -430,17 +391,17 @@ an empire. Manco Capac was thus the first Inca. There were ten or
 twelve Incas before the conquest of Peru. Their conquests extended
 through the entire valley of the Cordilleras, until over four hundred
 tribes, with a population of many millions, became subject to their
-dominion.</p>
+dominion.
 
-<p>The territory of the Incas extended from the southern part of Chili
+The territory of the Incas extended from the southern part of Chili
 northward into Colombia, beyond Quito, a distance of two thousand
 miles, and west to the Pacific Ocean. On the eastern slope of the
 Cordilleras, toward the great plain of the Amazon, the Incas met a
 stronger and more savage people, with whom they were in constant
 warfare. In the several passes of the Cordilleras they constructed
-fortifications to protect their borders and prevent invasion.</p>
+fortifications to protect their borders and prevent invasion.
 
-<p>The capital of the territory, Cuzco, was situated in a beautiful
+The capital of the territory, Cuzco, was situated in a beautiful
 valley ten thousand feet above the sea. Amidst the Alps, such a valley
 would be buried in eternal snow, but within the tropics it enjoys a
 perpetual spring. Here the Incas loved to dwell, and remains of
@@ -451,9 +412,9 @@ reflect that these people had no beasts of burden except the llama,
 which could only carry light loads, and no mechanical means for
 transporting the vast blocks of stone used in constructing these
 buildings, we are astonished at what they accomplished. The pyramids
-of Egypt are not more wonderful.</p>
+of Egypt are not more wonderful.
 
-<p>Great highways were built, running north, south and west, connecting
+Great highways were built, running north, south and west, connecting
 different parts of the Empire. One followed the valley between the
 Cordilleras and Andes to Quito, another crossed the Andes and followed
 the sea-coast north and south to the extreme limits of their country.
@@ -462,18 +423,17 @@ erected every few miles, and larger ones at the end of a day's
 journey. Couriers were stationed at regular intervals, each of whom
 had his allotted station, between which and the next it was his duty
 to run at a certain pace bearing his message, and on his approach to
-the <span class="pagenum"><a name="page10"><small><small>[p. 10]</small></small></a></span>
-next station he signalled to the next chasquir, as the
+the {10} next station he signalled to the next chasquir, as the
 couriers were called, to be ready to carry forward the message. In
-this way, it is said, about 150 miles a day were made.</p>
+this way, it is said, about 150 miles a day were made.
 
-<p>These couriers traveled more quickly than the mail-carriers of Europe,
+These couriers traveled more quickly than the mail-carriers of Europe,
 and the means of communication were then, Squier tells us, far better
 than they are to-day. Many of these old tambos are still maintained.
 One in which Squier spent the night was 180 feet in length, with rooms
-forming three sides of a court.</p>
+forming three sides of a court.
 
-<p>The country of the Incas had every variety of climate, and the
+The country of the Incas had every variety of climate, and the
 products were those of every part of the new world. On the coast,
 perpetual summer reigns, with all the variety and beauty of tropical
 vegetation. At a higher elevation, the trees are always green, and
@@ -483,82 +443,80 @@ is eternal winter. In some places, as at Potosi, the changes of
 temperature are frequent and extremes of heat and cold are experienced
 in a single day. The weather in the early morning is frosty; in the
 forenoon, mild and balmy; in the afternoon, scorching, and in the
-evening, cool and delicious.</p>
+evening, cool and delicious.
 
-<p>On the Pacific slope of the Andes, reservoirs were constructed, from
-which irrigating canals watered the whole plain now lying desolate and barren.</p>
+On the Pacific slope of the Andes, reservoirs were constructed, from
+which irrigating canals watered the whole plain now lying desolate and
+barren.
 
-<p>The conquered tribes were incorporated into the nation and became the
+The conquered tribes were incorporated into the nation and became the
 people of the Incas. If the conquered tribe was strong and warlike,
 some of its members were removed to distant parts of the country and
 were replaced by the inhabitants of those regions, to whom privileges
 and immunities were given as compensation for the change of home. The
 conquered tribes quickly realized the benefits of the rule of the
-Incas and became faithful and loyal subjects.</p>
+Incas and became faithful and loyal subjects.
 
-<p>The government of the Incas was a paternal despotism controlling the
+The government of the Incas was a paternal despotism controlling the
 most minute affairs of daily life. Knowledge, the Incas taught, "was
 not intended for the people, but for those of generous ability, for it
-would render persons of low degree vain and arrogant."</p>
+would render persons of low degree vain and arrogant."
 
-<p>The Incas established a communal system similar to that of Russia.
+The Incas established a communal system similar to that of Russia.
 One-third of the land belonged to the Inca, one-third to the priests
 of the Sun, and the remainder to the people, who were required to
 cultivate the land of the Inca and of the priests, as well as their
 own. The land was divided among the families yearly, according to
-their number. Every newly
-<span class="pagenum"><a name="page11"><small><small>[p. 11]</small></small></a></span>
-married couple received a stated
-portion which was increased as the family increased.</p>
+their number. Every newly {11} married couple received a stated
+portion which was increased as the family increased.
 
-<p>Their only means of writing was by a cord, called quippus, about two
+Their only means of writing was by a cord, called quippus, about two
 feet long, composed of threads of different colors twisted together,
 from which a quantity of smaller threads hung like a knotted fringe.
 The colors denoted sensible objects or sometimes abstract ideas,
-though the principal use of the quippus was for arithmetical purposes.</p>
+though the principal use of the quippus was for arithmetical purposes.
 
-<p>The civilization of the Incas appears to have been of a higher order
+The civilization of the Incas appears to have been of a higher order
 than that of the Mexicans. It is not probable that hieroglyphics were
 in use among any of the South American Indians, though it is said that
 traces of a pictorial alphabet have been found. The people were
 contented and happy, although they were deprived of personal liberty,
 although their daily life was supervised by their rulers, and although
 they held only communal rights of property. They had neither ambition
-nor strong love of country.</p>
+nor strong love of country.
 
-<p>When Pizarro landed in Peru there were two Incas, one at Cuzco and the
+When Pizarro landed in Peru there were two Incas, one at Cuzco and the
 other at Quito, and the bitter conflict which was raging between them
 made the conquest of both easy. Pizarro had only 180 followers, but
 they were Spanish cavaliers, carrying fire-arms; and with this small
 force he overturned the Incas and enslaved the people. The descendants
-of the Quichuas, or the people of the Incas, still inhabit the land&mdash;a
+of the Quichuas, or the people of the Incas, still inhabit the land--a
 mild, apathetic, servile and dejected race. It is said that after the
 conquest the women put on a black mantle, which they have worn ever
-since, as perpetual mourning for the last of the Incas.</p>
+since, as perpetual mourning for the last of the Incas.
 
-<p>There are a few descendants of Spaniards in Peru, but the population
+There are a few descendants of Spaniards in Peru, but the population
 consists chiefly of the descendants of the Quichuas and mixed
 Spaniards and Quichuas. The Peruvians of to-day are less civilized
-than those who lived 400 years ago; they have less liberty and are poorer.</p>
-<br>
+than those who lived 400 years ago; they have less liberty and are
+poorer.
 
-<center>D<small>ISCOVERY OF THE</small> A<small>MAZON</small>.</center>
 
-<p>Great rivers have usually been discovered and explored by ascending
+DISCOVERY OF THE AMAZON.
+
+Great rivers have usually been discovered and explored by ascending
 them from the ocean to their sources; the Congo and the Amazon were
-explored downward from their sources to the ocean.</p>
+explored downward from their sources to the ocean.
 
-<p>Three hundred and fifty years ago, Gonzalo Pizarro, then governor of
+Three hundred and fifty years ago, Gonzalo Pizarro, then governor of
 Upper Peru, heard of a land of silver and gold, spices and precious
 stones; a land where spring reigned and all tropical fruits abounded.
-He determined to follow the little
-<span class="pagenum"><a name="page12"><small><small>[p. 12]</small></small></a></span>
-stream which, rising in the
+He determined to follow the little {12} stream which, rising in the
 Andes, near Quito, flowed eastward; to explore the country, and find
 the happy land. He set out with 350 Cavaliers, mounted on Spanish
-horses and attended by 4000 Indian slaves.</p>
+horses and attended by 4000 Indian slaves.
 
-<p>The first part of the route was easy; the little stream soon became a
+The first part of the route was easy; the little stream soon became a
 river, then broadened into the Napo; but the farther they went, the
 slower and more difficult was their progress as they passed from the
 open forest and the cool and invigorating breezes of the Andes into
@@ -567,9 +525,9 @@ dense, darker and more impenetrable than those described by Stanley,
 for the valley of the Amazon is richer than the valley of the Congo.
 Natives armed with poisoned arrows opposed their progress; food became
 scarce, treachery was on every side, and their number gradually
-diminished by death and by desertion of the slaves.</p>
+diminished by death and by desertion of the slaves.
 
-<p>The natives told them of a greater river than the Napo which they
+The natives told them of a greater river than the Napo which they
 would find a few days' voyage farther down. This river, they said,
 flowed through a more populous and richer country, where food was
 abundant and gold was found in every stream. Pizarro determined to
@@ -592,8 +550,7 @@ faithful to Pizarro, and he was left on the bank while Orellano sailed
 down the river. The wonder of the explorers daily increased as other
 rivers larger than the Napo flowed into the Amazon, now on the north,
 more frequently on the south. Month after month passed, the river grew
-so broad that they could not see from one side to the other.
-<span class="pagenum"><a name="page13"><small><small>[p. 13]</small></small></a></span>
+so broad that they could not see from one side to the other. {13}
 Great islands were passed, channels running parallel with the main
 stream larger than any river they had ever seen. Still on they went,
 till after several months they reached the Atlantic Ocean. Then they
@@ -604,13 +561,14 @@ passed; and the rich mines of which they had heard. They told fabulous
 tales of the Amazonians they had encountered, strong and masculine
 women, armed with bows and arrows, living by themselves, admitting men
 into their country only one month in the year, killing or sending away
-the male children and training the girls to become amazons and warriors.</p>
+the male children and training the girls to become amazons and
+warriors.
 
-<p>Orellano was received by the Queen; his treachery was forgotten and a
+Orellano was received by the Queen; his treachery was forgotten and a
 new expedition was sent out under his command; but he died before
-reaching the river.</p>
+reaching the river.
 
-<p>Meantime, Pizarro and his followers slowly and with difficulty made
+Meantime, Pizarro and his followers slowly and with difficulty made
 their way down the Napo, taking as many months to reach the Amazon as
 Orellano had taken days. They looked in vain for their companions, but
 found only the solitary man who had been left behind, scarcely alive,
@@ -620,26 +578,24 @@ their departure, their horses gone, their arms broken or rusted, the
 skins of wild animals their only clothing. "The charnel house seemed
 to have given up its dead, as they glided onward like a troop of
 spectres." Half of the Indians had perished, and of the three hundred
-and fifty cavaliers only eighty were left.</p>
+and fifty cavaliers only eighty were left.
 
-<p>Such was the end of an expedition which for dangers and hardships,
+Such was the end of an expedition which for dangers and hardships,
 length of duration, and constancy displayed is probably unmatched in
-the annals of American discovery.</p>
-<br>
+the annals of American discovery.
 
-<center>G<small>UIANA</small>.</center>
 
-<p>Guiana is the only country of South America not inhabited by the Latin
+GUIANA.
+
+Guiana is the only country of South America not inhabited by the Latin
 race. It was acquired for Great Britain by one who acted contrary to
 his instructions in attacking a power, Spain, with which his own
-country was at peace.</p>
+country was at peace.
 
-<p>Gonzalo Pizarro, on his journey down the Napo in 1539, heard wonderful
+Gonzalo Pizarro, on his journey down the Napo in 1539, heard wonderful
 stories of a golden city far away on the banks of the Orinoco,
 surrounded by mountains of gold. Rumors of this golden city were
-carried by English navigators to Great Britain,
-<span class="pagenum"><a name="page14"><small><small>[p. 14]</small></small></a></span>
-with legends of a
+carried by English navigators to Great Britain, {14} with legends of a
 prince of Guiana, whose body, first smeared with turpentine, was then
 powdered with gold dust, so that he strode among his people a majestic
 golden statue. Adventurers started in search of this El Dorado, some
@@ -648,24 +604,24 @@ was never found. They, however, brought back reports of chiefs whose
 bodies sparkled with gold dust as they danced, who had golden eagles
 dangling from their breasts and great pearls from their ears; they
 told of mines of diamonds and gold, and of the natives who longed to
-exchange their jewels for jews-harps.</p>
+exchange their jewels for jews-harps.
 
-<p>Sir Walter Raleigh determined to find this country and bring to his
+Sir Walter Raleigh determined to find this country and bring to his
 queen its fabulous riches, for he believed that the silver and gold
 mines of Mexico and Peru had made Spain the first state in
-Christendom&mdash;"that purchaseth intelligence and creepeth into counsels
-and endangereth and disturbeth all the nations of Europe."</p>
+Christendom--"that purchaseth intelligence and creepeth into counsels
+and endangereth and disturbeth all the nations of Europe."
 
-<p>In 1595, Sir Walter sailed from England and arrived at the Isle of
+In 1595, Sir Walter sailed from England and arrived at the Isle of
 Trinidad, where he overthrew the Spaniards, then sailed up the
 Orinoco, or one of its branches, four hundred miles, until hunger and
 sickness compelled him to return. Although he did not reach the golden
 city, he could see the mountains far in the distance which he believed
 surrounded it, and he found the shining sand on the banks of the
 Orinoco. In Guiana he raised the flag of England and compelled the
-Indians to swear fealty to his queen.</p>
+Indians to swear fealty to his queen.
 
-<p>Twenty years later, a prisoner in the Tower, he was released in order
+Twenty years later, a prisoner in the Tower, he was released in order
 to make a second voyage in search of this El Dorado for King James. He
 sailed in 1617, accompanied by his eldest son; but disaster and
 sickness met him at every step. He reached the Orinoco again, too
@@ -675,28 +631,29 @@ the death of his son in an attack on a Spanish town. He brought
 reports of the golden city, of the mines of gold, diamonds and
 emeralds, but neither gold, diamonds nor emeralds to confirm the truth
 of these reports. Raleigh said, "I am undone;" Keymis replied, "I know
-then, Sir, what course to take." He went to his cabin and killed himself.</p>
+then, Sir, what course to take." He went to his cabin and killed
+himself.
 
-<p>Raleigh returned to England, a broken down old man. The Spaniards
+Raleigh returned to England, a broken down old man. The Spaniards
 demanded his life of James as they had demanded it of Elizabeth after
-his first expedition, on the ground that in time of
-<span class="pagenum"><a name="page15"><small><small>[p. 15]</small></small></a></span> peace Raleigh
+his first expedition, on the ground that in time of {15} peace Raleigh
 had attacked the Spanish forces and invaded their country. Elizabeth
 had refused, but James yielded. Raleigh was executed, but Guiana
-became an English colony.</p>
+became an English colony.
 
-<p>The gold and silver mines of Peru have failed; little gold has been
+The gold and silver mines of Peru have failed; little gold has been
 found in Guiana, but its rich and fertile soil, watered by tropical
-rains, has been a source of greater wealth than the gold mines of Peru.</p>
-<br>
+rains, has been a source of greater wealth than the gold mines of
+Peru.
 
-<center>P<small>OPULATION OF</small> S<small>OUTH</small> A<small>MERICA</small>.</center>
 
-<p>As the countries of South America were all settled at about the same
+POPULATION OF SOUTH AMERICA.
+
+As the countries of South America were all settled at about the same
 time and by the same race and have passed through a like history, they
-can be considered as a whole.</p>
+can be considered as a whole.
 
-<p>The United States and Canada, with a rough, uncongenial climate and
+The United States and Canada, with a rough, uncongenial climate and
 sterile soil, were settled by the Anglo-Saxons, the remainder of the
 western continent by the Latin race and, excepting Brazil and Guiana,
 by Spaniards. In North America the Anglo-Saxon race has dominated,
@@ -711,21 +668,20 @@ Their leaders were men of unbounded ambition, rapacious, of great
 endurance, but cruel and unscrupulous. They sought adventure,
 expecting it would bring them gold and silver. For that end they
 plundered, despoiled and enslaved the Indians. Gold and silver flowed
-into their hands; luxury, effeminacy, and weakness followed.</p>
+into their hands; luxury, effeminacy, and weakness followed.
 
-<p>The Spaniards in America have scarcely retained the civilization they
+The Spaniards in America have scarcely retained the civilization they
 brought from the old world. They have intermarried with the Indians,
 and this mixed race is said to inherit the vices of each of their
-ancestors without the virtues of either.</p>
+ancestors without the virtues of either.
 
-<p>A sparse population, mostly Spanish and foreigners, inhabit a zone ten
+A sparse population, mostly Spanish and foreigners, inhabit a zone ten
 to twenty miles in depth along the coast of South America, from the
 Bay of Panama to the Caribbean sea. All the cities and settlements,
-excepting a few in the Argentine Republic, are near the coast.</p>
+excepting a few in the Argentine Republic, are near the coast.
 
-<p>Back of this zone, on the Pacific, is a mixed Spanish-Indian
-population, much larger than the Spanish and foreign population;
-<span class="pagenum"><a name="page16"><small><small>[p. 16]</small></small></a></span>
+Back of this zone, on the Pacific, is a mixed Spanish-Indian
+population, much larger than the Spanish and foreign population; {16}
 and on the Atlantic a population which is Spanish-Indian,
 Spanish-Negro, and Negro-Indian, occupies a zone from twenty to one
 hundred miles wide. Beyond the first zone a few Spanish families and
@@ -734,17 +690,17 @@ the cattle ranches, and on a few haciendas in Peru and Chili. In
 Brazil the Portuguese and some Englishmen and Germans raise coffee and
 sugar, and oversee the diamond and gold fields. On the Amazon there
 are a few small settlements to collect the India rubber and cacao of
-that valley.</p>
+that valley.
 
-<p>Save these sparse settlements, the interior of South America is
+Save these sparse settlements, the interior of South America is
 inhabited by wild tribes of Indians, uncivilized save for the presence
 of a few Catholic priests, who have given the Indians the cross and
 the image of the Virgin Mary, which they worship, mingling the
 Catholic religion with their old idolatries and barbarous rites. The
 natives are believed to be more idle and less civilized than when the
-Spaniards discovered America.</p>
+Spaniards discovered America.
 
-<p>The Spaniards are the grandees of the country; too proud to work, they
+The Spaniards are the grandees of the country; too proud to work, they
 leave all business to the foreigners and all labor to the Indians,
 retaining in connection with the half-breeds all political power. When
 the regents appointed by Spain were expelled in the early part of the
@@ -753,60 +709,60 @@ only in name; the people were neither educated nor fitted for
 self-government. Their presidents generally exercised the powers of
 dictators and often assumed that title. They have rarely enjoyed a
 long rule, for their power and position were sought by others.
-Revolution in these countries has passed from the acute to the chronic stage.</p>
+Revolution in these countries has passed from the acute to the chronic
+stage.
 
-<p>A recent traveller in Peru, who wished to inspect its railroad system,
+A recent traveller in Peru, who wished to inspect its railroad system,
 was informed that only 26 miles were in running order, the remainder
 being under the control of the revolutionists who were then less than
 80 miles from the capital. He asked why the rebels did not take Lima,
 the capital, and was told, "because there is no unanimity among them;
 they are suspicious of each other, and cannot depend upon any one
 man." Instead of being anxious to serve their country they are only
-interested in robbing her.</p>
+interested in robbing her.
 
-<p>Another traveller in Bolivia, who witnessed some of these revolutions,
+Another traveller in Bolivia, who witnessed some of these revolutions,
 says they sometimes occurred three times in as many weeks, and that it
 would have been ludicrous had not their results been often violent and
 tragic. There has been no settled government, no continued peace, no
-permanent policy, in any Spanish
-<span class="pagenum"><a name="page17"><small><small>[p. 17]</small></small></a></span>
-country. The hope for the future
+permanent policy, in any Spanish {17} country. The hope for the future
 is that the English, German, and French population will increase and
 become permanently identified with the country; they will then take an
 active interest in politics and direct the policy and administration
-of the government.</p>
+of the government.
 
-<p>Commercial and banking business is in the hands of the French,
+Commercial and banking business is in the hands of the French,
 Germans, and English. The Italians carry on a small trade at corner
 groceries and fruit stores; the French keep the hotels and
-restaurants; the English and Germans are the shippers, merchants and bankers.</p>
+restaurants; the English and Germans are the shippers, merchants and
+bankers.
 
-<p>Regular lines of English, French, and German steamers run from Europe
+Regular lines of English, French, and German steamers run from Europe
 to Panama and thence along the western coast of South America,
 stopping at ports en route; some return by Panama, others sail around
 Cape Horn to Europe by Buenos Ayres and Rio Janeiro. Other lines run
 direct from Europe to Brazil, and twenty-four lines connect Europe and
 the Argentine Republic; while there are only four lines of American
-steamers trading to South America.</p>
-<br>
+steamers trading to South America.
 
-<center>B<small>RAZIL</small>.</center>
 
-<p>We have given a general description of South America, but three
-countries&mdash;Brazil, the Argentine Republic and Peru&mdash;require further
+BRAZIL.
+
+We have given a general description of South America, but three
+countries--Brazil, the Argentine Republic and Peru--require further
 notice: Brazil, because it is the largest country, occupying
 three-sevenths of South America, and the only considerable state that
 was not settled by the Spaniards; the Argentine Republic, because it
 is the largest and most populous of the Spanish states and, with Peru,
 illustrates the political and financial phases through which the
-Spanish republics have passed.</p>
+Spanish republics have passed.
 
-<p>The valley of the Amazon makes Brazil the most fertile region of the
+The valley of the Amazon makes Brazil the most fertile region of the
 world. The tropical woods are so thick and the creepers and
 undergrowth so luxuriant that animal life is almost entirely confined
-to the trees above and the waters below.</p>
+to the trees above and the waters below.
 
-<p>The valley is not unhealthy, and, though under the equator, the
+The valley is not unhealthy, and, though under the equator, the
 climate is tempered by the trade winds and the evaporation from the
 vast Amazonian waters. Beyond the valley is the montaña district,
 where the land is higher and the climate semi-tropical, where there
@@ -814,28 +770,27 @@ are few creepers, little underbrush, and open forests, and where both
 animal and vegetable life is less abundant. Southward, beyond the
 montaña district, are the evergreen pampas, where no trees grow and
 where the animal and vegetable life are unlike either that of the
-valley of the Amazon or that of the
-<span class="pagenum"><a name="page18"><small><small>[p. 18]</small></small></a></span>
-montaña. As in Africa, so
+valley of the Amazon or that of the {18} montaña. As in Africa, so
 here, men who live in the dark forest, die in the open. Mr. Stanley
 selected thirty dwarfs from the tropical forests of Africa to take to
 England, but as soon as they came into the grass-lands, the clear air
-and bright sun, they languished and died before the coast was reached.</p>
+and bright sun, they languished and died before the coast was reached.
 
-<p>Northeast of the pampas, on the Atlantic coast, south of the Amazon,
+Northeast of the pampas, on the Atlantic coast, south of the Amazon,
 is a province bounded on the south by a range of high mountains, where
 rain is abundant; at Maranhao, its seaport, there are 280 inches of
 rainfall in the year. South of Maranhao there is much less rain; and
 instead of two seasons, the wet and the dry, which prevail in the
 valley of the Amazon, there are the four seasons of the year, but
-without extremes of heat and cold.</p>
+without extremes of heat and cold.
 
-<p>Over the greater part of Brazil grows the coffee tree, the
+Over the greater part of Brazil grows the coffee tree, the
 sheet-anchor of Brazilian prosperity, since it furnishes 60 per cent.
 of all the coffee grown in the world. The plant is not indigenous to
-Brazil, but was brought there about one hundred years ago from the old world.</p>
+Brazil, but was brought there about one hundred years ago from the old
+world.
 
-<p>Brazil, inhabited by the Portuguese, with an imperial government, has
+Brazil, inhabited by the Portuguese, with an imperial government, has
 been saved from the anarchy and insolvency of the Spanish republics.
 Her railroads have been built with economy and have been generally
 successful. It had a population in 1885 of 11,000,000; two-thirds of
@@ -847,9 +802,9 @@ passed finally emancipating 1,300,000 slaves. It was opposed by the
 planters, who said freedmen would not work, but would let the coffee
 and sugar plantations fall to ruin. It was probably this act which
 caused the overthrow of the empire, for in revenge the planters joined
-the insurgents in establishing the Republic.</p>
+the insurgents in establishing the Republic.
 
-<p>The Portuguese and Brazilians are more peaceable and orderly than the
+The Portuguese and Brazilians are more peaceable and orderly than the
 Spaniards or Spanish-Americans; we may therefore reasonably hope that
 Brazil will not repeat the history of the Spanish republics, which has
 been one of disintegration, for these republics have separated into
@@ -857,39 +812,38 @@ two or more States. The greatest difficulty in maintaining its immense
 domain will arise from the enormous distances and the time required to
 travel between different parts of the country. From Rio de Janeiro to
 Matto Grosso is 140 days' journey by land, and by water the distance
-is 3000 miles. Communication is maintained by steamer
-<span class="pagenum"><a name="page19"><small><small>[p. 19]</small></small></a></span> through the
+is 3000 miles. Communication is maintained by steamer {19} through the
 Argentine Republic up the Rio de la Plata and its branches. Although
 the country has many long and navigable rivers, yet the means of
 intercommunication are very poor; for the rivers are little used, and
 the forests, creepers, and undergrowth are so dense that the country
 back of the river-banks is impenetrable, and even if roads should be
 opened the soil is so luxuriant that they would be quickly overgrown
-and soon become impassable.</p>
+and soon become impassable.
 
-<p>Lines of steamers have been subsidized by the Brazilian government and
+Lines of steamers have been subsidized by the Brazilian government and
 run up the Amazon 2000 miles to Tabatinga, at the boundary line of
 Peru; there connecting with lines subsidized by the Peruvian
 government, which run 1500 miles farther up the river. These vessels
 carry supplies to the settlers and bring back India rubber,
-Brazil-nuts, cacao, quinine, and the beautiful woods of the forest.</p>
+Brazil-nuts, cacao, quinine, and the beautiful woods of the forest.
 
-<p>Yet steamers are rarely seen on the Amazon; they have few passengers,
+Yet steamers are rarely seen on the Amazon; they have few passengers,
 and have not opened the country; we are told that the Mississippi
 carries more vessels in a month, and the Yang-tse-kiang in a day, than
-the Amazon in a year.</p>
-<br>
+the Amazon in a year.
 
-<center>T<small>HE</small> A<small>RGENTINE</small> R<small>EPUBLIC</small>.</center>
 
-<p>The history of South American republics is illustrated in the
-Argentine republic.</p>
+THE ARGENTINE REPUBLIC.
 
-<p>It is a vast pampas or prairie, extending from Brazil to the Andes,
+The history of South American republics is illustrated in the
+Argentine republic.
+
+It is a vast pampas or prairie, extending from Brazil to the Andes,
 and from Bolivia with a southeasterly trend 2000 miles to southeastern
-Terra del Fuego.</p>
+Terra del Fuego.
 
-<p>The climate of the northern portion is tropical; of the central part,
+The climate of the northern portion is tropical; of the central part,
 semi-tropical; of the extreme south, temperate or cold. The country is
 generally well watered excepting in the northwestern part, where the
 land is dry and alkaline, like the arid regions of North America. The
@@ -899,22 +853,23 @@ and detritus from the Andes. Instead of the dense tropical forest of
 the Amazon valley, the pampas are covered by a coarse grass, three or
 four feet high, growing in large tussocks and all the year round of a
 dark green. The strong grass crowds out all trees and almost all
-plants, so that scarcely a flower relieves the uniform, everlasting verdure.</p>
+plants, so that scarcely a flower relieves the uniform, everlasting
+verdure.
 
-<p>Instead of the arboreal animals of the Amazon there is the rhea or
-American ostrich, "ship of the wilderness," adapted to the
-<span class="pagenum"><a name="page20"><small><small>[p. 20]</small></small></a></span>
+Instead of the arboreal animals of the Amazon there is the rhea or
+American ostrich, "ship of the wilderness," adapted to the {20}
 pampas, but unable to live in the forests. The gauchos have hunted it
 for the last three centuries, but it is now passing away and will soon
-be lost to the pampas, as the buffalo has been to the North American prairie.</p>
+be lost to the pampas, as the buffalo has been to the North American
+prairie.
 
-<p>The pampas are far better adapted to the raising of cattle than our
+The pampas are far better adapted to the raising of cattle than our
 prairies, for the grass is always green and the winters are milder.
 Cattle, horses, and sheep imported by the Spaniards and turned on to
 the pampas rapidly increased, and now immense herds feed on the
-plains.</p>
+plains.
 
-<p>The Indians who inhabit the pampas, instead of being confined to one
+The Indians who inhabit the pampas, instead of being confined to one
 locality and journeying only by canoe, like the Indians on the Amazon,
 wander over the length and breadth of the pampas, hunting the ostrich
 and cattle. The cattle are tended by gauchos, as the cow-boys are
@@ -922,16 +877,16 @@ called, half-breeds as wild as the herds they tend. Constant warfare
 exists between the Indians and the gauchos, unless they unite to
 attack the settlers. After one of the Indian raids the government dug
 an immense ditch from a river to the Andes and drove the Indians to
-the farther side, and since then there have been fewer raids&mdash;and
-fewer Indians.</p>
+the farther side, and since then there have been fewer raids--and
+fewer Indians.
 
-<p>The land was held in large blocks of many thousand acres, worked by
+The land was held in large blocks of many thousand acres, worked by
 overseers and gauchos. The animals were killed by hundreds of
 thousands for their skins. This state of things is, however, gradually
 passing away, for during the last twenty years emigrants from the old
-world have settled in the country as farmers and planters.</p>
+world have settled in the country as farmers and planters.
 
-<p>The fourteen provinces which form the Argentine Republic have never
+The fourteen provinces which form the Argentine Republic have never
 been welded into one nation, and have seldom had a moment's peace. The
 gauchos have been a continual scourge, and the gaucho generals its
 rulers and harriers combined. Unfortunately, here, as in other Spanish
@@ -939,17 +894,16 @@ states, one dictator has succeeded another. Thirty presidents, or
 dictators, have reigned within fifty years. At one time five provinces
 had each a separate dictator. The neighboring republic of Uruguay,
 formerly a part of the Argentine Confederation, had 26 revolutions in
-the twenty-three years from 1864 to 1887.</p>
+the twenty-three years from 1864 to 1887.
 
-<p>For some time Buenos Ayres and its dictator ruled the republic; then
+For some time Buenos Ayres and its dictator ruled the republic; then
 the country provinces rebelled, and civil war ensued; one province was
 arrayed against another, and all against Buenos Ayres. The provinces
 prevailed and the gaucho general, Rosas, occupied Buenos Ayres.
 Scarcely was this civil war ended when a war arose with the republics
-of Uruguay and Paraguay.</p>
+of Uruguay and Paraguay.
 
-<span class="pagenum"><a name="page21"><small><small>[p. 21]</small></small></a></span>
-<p>Money was required to pay the army and the cost of civil and
+{21} Money was required to pay the army and the cost of civil and
 foreign wars. Every dictator had his friends for whom provision must
 be made. Large debts were created; banks were chartered; $200,000,000
 of paper money were issued. There were several different circulating
@@ -960,17 +914,17 @@ are told that in one case $1,500,000 was paid for a concession, and
 that "Turkish officials, who have hitherto been the champion artists
 in backsheesh, leave off where Argentine blackmailers begin; the price
 of a drainage scheme at Buenos Ayres would buy a whole cabinet of
-pashas at Galata."</p>
+pashas at Galata."
 
-<p>Railroads were built running from Buenos Ayres in different
+Railroads were built running from Buenos Ayres in different
 directions, as each province demanded a railroad, with little regard
-to its population or business.</p>
+to its population or business.
 
-<p>A road was commenced to cross the Andes and open communication between
+A road was commenced to cross the Andes and open communication between
 the Atlantic and Pacific over mountains which had never been crossed
-by a carriage of any kind.</p>
+by a carriage of any kind.
 
-<p>The country was not settled so rapidly as the rulers desired.
+The country was not settled so rapidly as the rulers desired.
 Inducements were therefore offered to immigrants. The passage money
 from Europe and the expenses of the immigrant to his new home have
 been paid and land for settlement sold at low rates. It is estimated
@@ -990,58 +944,57 @@ issued and sold in Europe; and thus, as ever, more money was required,
 more bonds were issued. In 1889, a year of peace, the public debt was
 increased 120 per cent., and it is now said to be over one thousand
 four hundred millions of dollars, and the principal and interest of
-two-thirds of this amount is payable in gold at a premium of 200 per cent.</p>
+two-thirds of this amount is payable in gold at a premium of 200 per
+cent.
 
-<span class="pagenum"><a name="page22"><small><small>[p. 22]</small></small></a></span>
-<p>In 1890 there was no money to meet the interest and general
-prostration ensued.</p>
+{22} In 1890 there was no money to meet the interest and general
+prostration ensued.
 
-<p>It is difficult to ascertain the debt of the republic; but if the
+It is difficult to ascertain the debt of the republic; but if the
 accounts given in the English publications are correct the debt is
 greater in proportion to its population and wealth than that of any
 other country in the world. The only hope of the Argentine Republic is
-to wipe out the debt by insolvency and bankruptcy.</p>
-<br>
+to wipe out the debt by insolvency and bankruptcy.
 
-<center>P<small>ERU</small>.</center>
 
-<p>A strip of land with 1200 miles of sea coast, without a natural
+PERU.
+
+A strip of land with 1200 miles of sea coast, without a natural
 harbor, and 200 to 300 miles wide, consisting of a plain, mountains, a
-plateau, and still another range of mountains&mdash;this is Peru.</p>
+plateau, and still another range of mountains--this is Peru.
 
-<p>In the west, where the rain never falls, are numerous small rivers,
-to-day mountain torrents, to-morrow dry, rocky beds.</p>
+In the west, where the rain never falls, are numerous small rivers,
+to-day mountain torrents, to-morrow dry, rocky beds.
 
-<p>Between the lofty ranges of snow mountains is the highest plateau in
+Between the lofty ranges of snow mountains is the highest plateau in
 the world, after Thibet. The southern part of this plateau is dry and
 desolate, the northern portion is well watered, with beautiful streams
 running now through deep cañons and then through rich, fertile valleys
 steadily descending toward the northeast; the valleys growing ever
 broader, warmer and more delightful, until the montaña is reached,
 only a few hundred feet above the Atlantic, where the streams have
-become rivers, navigable to the ocean.</p>
+become rivers, navigable to the ocean.
 
-<p>The western slope of the mountains is dry and barren, so that
+The western slope of the mountains is dry and barren, so that
 breadstuffs and provisions are imported from Ecuador on the north, or
 from lower Chili, far to the south. Yet no other country has
 contributed so much to the world's fertility; for here are the great
 deposits of guano and nitrates, more valuable than mines of gold and
 silver. These deposits yielded for over thirty years a net annual
-revenue of $20,000,000.</p>
+revenue of $20,000,000.
 
-<p>The eastern slope, rich and fertile, producing every tree and flower,
+The eastern slope, rich and fertile, producing every tree and flower,
 all fruits and vegetables grown in any part of the world; in the
 mountains, mines of gold and silver, platinum and cinnabar, copper and
 tin, lead and iron, coal and petroleum, nitrates and asphalt: a
-bankrupt nation in the midst of untold wealth&mdash;such is Peru.</p>
+bankrupt nation in the midst of untold wealth--such is Peru.
 
-<p>To bring the minerals down to the ocean, tens of millions of dollars
+To bring the minerals down to the ocean, tens of millions of dollars
 were expended on thirteen roads; but though none of them were ever
 finished, they reached a few of the poorer mines. Seven of these roads
-were built by the government, the others by private parties.</p>
+were built by the government, the others by private parties.
 
-<span class="pagenum"><a name="page23"><small><small>[p. 23]</small></small></a></span>
-<p>The sales of guano and the production of gold and silver made
+{23} The sales of guano and the production of gold and silver made
 Peru a proud and wealthy nation. Everything prospered until the war
 with Chili, from 1879 to 1883, ending in the defeat of Peru and the
 loss of a portion of her territory, including a large part of her
@@ -1067,29 +1020,27 @@ tons a year, which will net $1,000,000. The concessionaires on their
 part agree to liquidate the Peruvian debt, to repair the railroads,
 and construct 974 miles in extension of the existing system at an
 estimated cost of $16,000,000, and to assume certain other obligations
-to a limited amount.</p>
+to a limited amount.
 
-<p>This, perhaps the most remarkable settlement ever made between a
+This, perhaps the most remarkable settlement ever made between a
 bankrupt nation and its creditor, is due largely to Mr. Grace, and
-cannot fail to develop the resources of Peru and restore her days of prosperity.</p>
-<br>
+cannot fail to develop the resources of Peru and restore her days of
+prosperity.
 
-<center>T<small>RADE</small> R<small>ELATIONS WITH THE</small>
-U<small>NITED</small> S<small>TATES</small>.</center>
 
-<p>It appears from the foregoing statement that all the carrying trade to
+TRADE RELATIONS WITH THE UNITED STATES.
+
+It appears from the foregoing statement that all the carrying trade to
 and from South America, by water, is by foreign steamers; that only
 four of these are American lines; that the railroads are generally
 owned and operated by Englishmen; that the bankers and merchants are
-Englishmen or Germans; that
-<span class="pagenum"><a name="page24"><small><small>[p. 24]</small></small></a></span>
-many of the mines, cattle ranches,
+Englishmen or Germans; that {24} many of the mines, cattle ranches,
 coffee plantations and other estates are owned by non-resident
 foreigners; and that the largest consumer of South American products
 is the United States, although this country sells few of its
-manufactures and products to South America.</p>
+manufactures and products to South America.
 
-<p>The English steamers, in the usual course of trade, load with English
+The English steamers, in the usual course of trade, load with English
 dry-goods consigned to English houses in South America, where they are
 sold and the proceeds invested in coffee and other products, which are
 sent in the same vessels to the United States; there sold, and the
@@ -1116,15 +1067,13 @@ manufactures, other countries subsidized lines of steamers, while we
 refused all subsidies; and our trade with South America rapidly fell
 off, as freights were carried cheaper in foreign than in American
 ships, and the trade of South America passed from the United States to
-England, Germany and France.</p>
+England, Germany and France.
 
-<p>It is said that we cannot regain this trade, because we cannot,
+It is said that we cannot regain this trade, because we cannot,
 without protection maintain our own manufactures, much less compete
 with the Europeans in an open market; and therefore that it will be a
 waste of money to subsidize our vessels. But the larger the market the
-cheaper we can manufacture, and we can
-<span class="pagenum"><a name="page25"><small><small>[p. 25]</small></small></a></span>
-surely find a large and
+cheaper we can manufacture, and we can {25} surely find a large and
 new market for our breadstuffs. It is worth while to make the
 experiment at least, to give our vessels the same subsidy and
 protection that has been given to the European lines, and to our
@@ -1132,9 +1081,9 @@ merchants and bankers, an opportunity to regain the trade with South
 America. At first the odds will be greatly against us; but if we show
 the same energy and ability in cultivating trade with South America
 that our fathers exhibited, and that we have shown in other
-directions, we must ultimately succeed.</p>
+directions, we must ultimately succeed.
 
-<p>It is now proposed to tax the products of South America, unless the
+It is now proposed to tax the products of South America, unless the
 South American states reciprocate and admit our breadstuffs and
 manufactures free. If this scheme can be carried out, a large and
 prosperous commerce will be established between North America and
@@ -1143,62 +1092,61 @@ to dispose of our manufactures and ship the products to South America.
 By this interchange, our manufacturers and farmers will find a market
 for their goods and products, our mercantile navy freight for its
 vessels, and our bankers and merchants a profitable business in the
-large cities of South America.</p>
-<br>
+large cities of South America.
 
-<center>R<small>AILROADS</small>.</center>
 
-<p>We have already referred to the several railroads which start from the
+RAILROADS.
+
+We have already referred to the several railroads which start from the
 little ports on the Pacific coast and run up the valleys toward the
 Andes. Three of these, among the most remarkable roads in the world,
 ascend to a greater elevation than any others, and to a height which
 in Europe or the United States, would be above the snow level. They
 were intended to reach the gold and silver mines between the Andes and
-Cordilleras.</p>
+Cordilleras.
 
-<p>The first, called the Oroya or Central railroad, 111 miles in length,
+The first, called the Oroya or Central railroad, 111 miles in length,
 starts from Callao on the Pacific, and crosses the Andes, at an
 elevation of nearly 15,000 feet, to the plateau between the Andes and
 the Cordilleras. It is expected that this road will be extended to the
-navigable waters of the Amazon.</p>
+navigable waters of the Amazon.
 
-<p>Three hundred miles southward, the second road runs from Mollendo,
+Three hundred miles southward, the second road runs from Mollendo,
 Peru, by Arequipa to Puno on Lake Titicaca, and thence northward on
 the plateau 407 miles to San Rosas, on the route to Cuzco. The road
 from Mollendo to Arequipa runs through a country so destitute of water
-that the only supply for
-<span class="pagenum"><a name="page26"><small><small>[p. 26]</small></small></a></span>
-the engines and stations is by an iron
+that the only supply for {26} the engines and stations is by an iron
 pipe 8 inches in diameter, and 50 miles long, running from an
-elevation of 7,000 feet to the sea-coast.</p>
+elevation of 7,000 feet to the sea-coast.
 
-<p>Seven or eight hundred miles south of Mollendo, a line runs from
+Seven or eight hundred miles south of Mollendo, a line runs from
 Valparaiso in Chili to Buenos Ayres, 870 miles. It crosses the Andes
 through a tunnel two miles long, at an elevation of 10,568 feet above
 the sea; after leaving the mountains it runs over the pampas two
 hundred miles, without a curve or a grade over three feet above or
-below the plain, and will soon be completed from ocean to ocean.</p>
+below the plain, and will soon be completed from ocean to ocean.
 
-<p>From Rio de Janeiro several roads have been constructed over the
+From Rio de Janeiro several roads have been constructed over the
 mountains west of that city to different parts of Brazil. One of these
-runs westwardly toward Bolivia.</p>
+runs westwardly toward Bolivia.
 
-<p>Bolivia has recently granted concessions for the construction of a
+Bolivia has recently granted concessions for the construction of a
 road from La Paz to connect on the west with the Peruvian roads at
 Lake Titicaca, and on the east with the Brazilian lines on the
 Pacific; and thus ultimately a road will run from Mollendo on the
-Atlantic ocean by Lake Titicaca and La Paz to Rio de Janeiro.</p>
+Atlantic ocean by Lake Titicaca and La Paz to Rio de Janeiro.
 
-<p>There are now from 6000 to 7000 miles of road in operation in the
+There are now from 6000 to 7000 miles of road in operation in the
 Argentine Republic, 5000 to 6000 in Brazil, and 3000 to 4000 miles in
-the other states, making a total of about 15,000 miles of railroad in operation.</p>
+the other states, making a total of about 15,000 miles of railroad in
+operation.
 
-<p>A proposition is now before the public for the construction of the
+A proposition is now before the public for the construction of the
 Pan-American railroad, from the Caribbean sea southward to the
 Argentine Republic to connect with the Peruvian, with the Brazilian,
-and ultimately with the Argentine roads.</p>
+and ultimately with the Argentine roads.
 
-<p>The route that seems to be most feasible starts at Cartagena, where
+The route that seems to be most feasible starts at Cartagena, where
 there is a splendid bay and harbor, within three days sail from
 Galveston and six days from New York. It follows the valley of the
 Magdalena river 800 miles to Dividal, 1700 feet above the sea. Here,
@@ -1210,12 +1158,11 @@ tide-water. From the Caqueta river, the route passes through Ecuador
 to Iquitos, Peru, crossing fourteen tributaries of the Amazon. From
 Iquitos the route ascends the Amazon and the Ucayle, one of its
 southern tributaries, 500 miles to Napal, then continues across the
-montaña <span class="pagenum"><a name="page27"><small><small>[p. 27]</small></small></a></span>
-and the numerous valleys of the Amazon about 600 miles,
+montaña {27} and the numerous valleys of the Amazon about 600 miles,
 to Santa Cruz in Bolivia, or 2400 miles from Cartagena; while a branch
-will run up the Apurimac to Cuzco.</p>
+will run up the Apurimac to Cuzco.
 
-<p>This road would run for 2000 miles along the foot hills of the
+This road would run for 2000 miles along the foot hills of the
 Cordilleras, and in these mountains is probably the richest mining
 region in the world; here gold, silver, copper, lead and coal mines
 are found. The gold and silver mines do not seem to have been
@@ -1225,107 +1172,111 @@ treeless regions, where coal, labor and food are difficult to obtain;
 where freights are high and machinery of all kinds most expensive.
 This road would greatly facilitate the opening and working of these
 mines, and not only make them profitable but develop a large and
-lucrative traffic.</p>
+lucrative traffic.
 
-<p>Much of Bolivia is above the navigable waters of the Amazon, and many
+Much of Bolivia is above the navigable waters of the Amazon, and many
 of its provinces are now land-locked and almost isolated from
 communication with the outer world. The proposed road would cross many
 branches of the Amazon, and thus connect with fifty thousand miles of
 navigable waters, at least 9000 of which are above Iquitos; and it is
 claimed that the business from 20,000 miles of navigable waters would
-find by this route a nearer outlet to Europe and America than by Para.</p>
+find by this route a nearer outlet to Europe and America than by Para.
 
-<p>There is every variety of climate on the route. The valley of the
+There is every variety of climate on the route. The valley of the
 Magdalena is sultry; every afternoon the water grows tepid, and the
 stones burning hot, in the sun's rays. In crossing the Cordilleras the
 cool breezes of the mountains are met. The road then descends into the
 valley of the Amazon, through a rich and not unhealthy region, though
 it has the damp, hot, climate of a tropical country, and thence passes
-through the montaña district, which is generally high, healthy and fertile.</p>
+through the montaña district, which is generally high, healthy and
+fertile.
 
-<p>This country, under a wise government, is capable of sustaining an
+This country, under a wise government, is capable of sustaining an
 immense population and giving abundant support to such a railroad; but
 it is now unexplored, excepting the valleys of the navigable rivers,
 and is uninhabited save by wild and savage Indians, though these are
-not numerous.</p>
+not numerous.
 
-<p>The route up the Magdalena may be expensive by reason of the climate,
+The route up the Magdalena may be expensive by reason of the climate,
 but not otherwise. The road in the mountain district will necessarily
-be costly, and also in the sierras, because it must
-<span class="pagenum"><a name="page28"><small><small>[p. 28]</small></small></a></span> cross the
+be costly, and also in the sierras, because it must {28} cross the
 numerous branches of the Amazon, and the precipitous mountains between
 the valleys, and from the difficulty of obtaining labor and material
 for construction. Mr. Orton, who crossed from one branch of the Napo
-to another, says:</p>
+to another, says:
 
-<blockquote><small>"We crossed the stream and the intervening ridges, and their name is
+"We crossed the stream and the intervening ridges, and their name is
 legion; sometimes we were climbing up an almost vertical ascent, then
 descending into a deep dark ravine to find a furious river, while on
 the lowlands the path seemed lost in the dense bamboos, until the
 Indians opened a passage with their machetes and we crept under the
-low arcade of foliage."</small></blockquote>
+low arcade of foliage."
 
-<p>Even if the railroad were built, almost all the produce of the Amazon
+Even if the railroad were built, almost all the produce of the Amazon
 and montaña country could be carried more cheaply by water to Para
 than by rail to Cartagena; while goods from England and America would
 be carried cheaper by steamer to the Isthmus of Panama, and thence to
 all ports on the Pacific ocean, than by steamer to Cartagena and up
 the Magdalena across the Andes to the valley of the Amazon, and then a
 second time across the Andes to the Pacific ocean. The greater part of
-the business to and from the mines would be by the railroad.</p>
+the business to and from the mines would be by the railroad.
 
-<p>At present, as there could not be sufficient business to pay the
+At present, as there could not be sufficient business to pay the
 operating expenses of such a road, it must rely on government
-subsidies to build and operate it.</p>
+subsidies to build and operate it.
 
-<p>Those who have given the most consideration to the subject say that
+Those who have given the most consideration to the subject say that
 the road need not be an expensive one to operate, and in the important
 element of time it would have a great advantage over the route via
 Para. As a means of promoting the settlement of the country and
 developing commerce, which cannot exist without population, the
 railroad would seem to be a necessity, for navigation has neither
 opened the country nor brought in emigrants and we may fairly assume
-that it will not suffice in the future.</p>
-<br>
+that it will not suffice in the future.
 
-<center>C<small>ONCLUSION</small>.</center>
 
-<p>In conclusion I will quote from two writers on tropical America.
-Buckle says:</p>
+CONCLUSION.
 
-<blockquote><small>"Amidst the pomp and splendor of nature, no place is left for man; he
+In conclusion I will quote from two writers on tropical America.
+Buckle says:
+
+"Amidst the pomp and splendor of nature, no place is left for man; he
 is reduced to insignificance by the majesty with which he is
 surrounded. The forces that oppose are so formidable that he has never
-been able to make head against them.</small></blockquote>
+been able to make head against them.
 
-<blockquote><small>"The energies of nature have hampered his spirit; nowhere else is the
+"The energies of nature have hampered his spirit; nowhere else is the
 contrast so painful between the grandeur of the external world and
-<span class="pagenum"><a name="page29"><small><small>[p. 29]</small></small></a></span>
-the littleness of the internal, and the mind, cowed by this
-unequal struggle, has been unable to advance.</small></blockquote>
+{29} the littleness of the internal, and the mind, cowed by this
+unequal struggle, has been unable to advance.
 
-<blockquote><small>"Here, where physical resources are the most powerful, where
+"Here, where physical resources are the most powerful, where
 vegetation and animals are most abundant, where the soil is watered by
 the noblest rivers and the coast studded by the finest harbors, the
 profusion of nature has hindered social progress and opposed that
-accumulation of wealth without which progress is impossible."</small></blockquote>
+accumulation of wealth without which progress is impossible."
 
-<p>Mr. Bates, the naturalist, after a residence of many years on the
-Amazon, closes his book as follows:</p>
+Mr. Bates, the naturalist, after a residence of many years on the
+Amazon, closes his book as follows:
 
-<blockquote><small>"The superiority of the bleak north to tropical regions is only in its
+"The superiority of the bleak north to tropical regions is only in its
 social aspects, for I hold to the opinion that although humanity can
 reach an advanced state of culture only by battling with the
 inclemency of nature in high latitudes, it is under the equator alone
 that the perfect race of the future will attain to complete fruition
-of man's beautiful heritage, the earth."</small></blockquote>
+of man's beautiful heritage, the earth."
 
-<p><small>&nbsp;&nbsp;&nbsp;&nbsp;<i>Washington, January, 1891</i>.</small></p>
+_Washington, January, 1891_.
 
-<span class="pagenum"><a name="page30"><small><small>[p. 30]</small></small></a></span>
-
-<div>*** END OF THE PROJECT GUTENBERG EBOOK 63012 ***</div>
-</body>
-</html>
+{30}
 
 
+
+
+
+
+
+End of the Project Gutenberg EBook of The National Geographic Magazine, Vol.
+III., PP. 1-30, PL.1, March 28, 1891, by Gardiner Greene Hubbard
+
+*** END OF THE PROJECT GUTENBERG EBOOK 63012 ***
